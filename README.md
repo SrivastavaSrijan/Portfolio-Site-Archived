@@ -11,7 +11,7 @@ No but seriously, this was my first webdev project (mostly) and I wasn't really 
 
 ## Authors
 
-* **Srijan Srivastava** - [Portfolio](https://srijansrivastava.tech/pomodoroclock/)
+* **Srijan Srivastava** - [Portfolio](https://srijansrivastava.tech/)
 
 
 ## License
